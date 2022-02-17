@@ -1,0 +1,17 @@
+.speech {font-family:Arial, Helvetica, sans-serif;
+         font-size: 12; 
+         color:black}
+
+.direction {font-family: 'Times New Roman', Times, serif; 
+            font-size: 12; 
+            color:black;
+            background-color: lightgoldenrodyellow;}
+:hover {background-color: bisque;
+                    color: aqua;}
+
+.name {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         font-size: 12;    
+         color:black}
+
+.ARMANDE {color: lightgreen;}
+.CLITANDRE {color: pink;}
