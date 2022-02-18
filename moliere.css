@@ -23,3 +23,6 @@
     padding: 25px;
     margin: 35px;}
 
+.name :hover {background-color: red;
+            text-shadow: 2px 3px 5px rgb(124, 172, 226);
+            border: 2px solid rgb(104, 238, 133);}
